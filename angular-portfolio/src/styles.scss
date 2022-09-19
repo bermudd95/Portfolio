@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { 
+    --primary-color: rgb(77, 0, 77);
+    --background-main: black;
+    --background-secondary: black;
+    --secondary-color: rgb(255, 19, 2);
+    --primary-shadow: rgb(6, 206, 129);
+    margin: 0; 
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    background-color: var(--primary-color); 
+}
